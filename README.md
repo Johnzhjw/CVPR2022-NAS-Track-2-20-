@@ -9,7 +9,7 @@
 提取码：xxst
 ```
 -main.ipynb       # 训练加测试
--main_test.ipynb  # 直接读取模型（机上面给出的连接），并在测试集预测排名
+-main_test.ipynb  # 直接读取模型（即上面给出的链接），并在测试集预测排名
 -checkpoints.zip  # checkpoints，保存的最优模型参数
 
 ```
