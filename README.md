@@ -1,16 +1,16 @@
-# AI-Studio-项目标题
-> 一个好的标题会让你的开源项目发挥更大的价值，想不出好的名字也不用担心，起名时就统一使用AIStudio-xxx做开头吧~
+# CVPR2022 NAS竞赛Track 2第20名方案
 
 ## 项目描述
-> 此处可以简要描述项目的“发家史”，例如它是做什么的？它有什么特点？
+> CVPR 2022 NAS workshop Track 2的参赛代码，第20名。
 
 ## 项目结构
-> 一目了然的项目结构能帮助更多人了解，目录树以及设计思想都很重要~
+> 包括代码、checkpoint
+> 模型下载链接为：链接：https://pan.baidu.com/s/1LHfyXZQ5PPgqamTdckBf6w 
+提取码：xxst
 ```
--|data
--|work
--README.MD
--xxx.ipynb
+-main.ipynb 
+-checkpoints.zip
+
 ```
 ## 使用方式
 > 相信你的Fans已经看到这里了，快告诉他们如何快速上手这个项目吧~  
